@@ -80,7 +80,7 @@ python3 kafka_producer.py
 Crear el archivo
 Código
 ```python
-nano kafka_producer.py
+nano spark_streaming_comsumer.py
 ```
 
 Lee los datos enviados a Kafka y calcula estadísticas en tiempo real.
